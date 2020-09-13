@@ -6,4 +6,4 @@ Additional layers coming soon for rowhomes - tenements and adjoined/stacked flat
 
 Comments, questions & feedback encouraged & appreciated! Please contact me if you've found an unmapped building or can provide any details!
 
-This project was begun [18 July 2018 in ArcGIS Online](https://www.arcgis.com/home/item.html?id=1b6128f17de94861a62157b95f630858). 
+This project began in [July 2018 in ArcGIS Online](https://arcg.is/1ezGee). 
