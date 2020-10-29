@@ -1,9 +1,13 @@
 # MKE-apartments
 
-This project maps, catalogues, and attempts to typologize historic prewar and interwar apartment buildings, built before 1939 and at least as early as 1883, within Milwaukee's city limits: Eastside and downtown, Westtown, Northwest Side, Old North Milwaukee, Walker's Point/5th Ward, West Milwaukee, and Bay View. It includes the discrete village of Shorewood and Whitefish Bay and cities of St. Francis, Cudahy, and South Milwaukee. This project excludes (for now) the inner ring suburbs Wauwatosa, West Allis, Greenfield, or Greendale, but will hopefully change soon. Please contact if you're interested in working together on this data collection! The following ZIP codes are represented (with a building count):  53110 (15), 53172 (4), 53202 (245), 53203 (20), 53204 (25), 53205 (37), 53206 (63), 53207 (45), 53208 (124), 53209 (48), 53210 (34), 53211 (187), 53212 (78), 53213 (4), 53214 (2), 53215 (25), 53216 (23), 53217 (6), 53218 (1), 53233 (203), and 53235 (1).
+Hello!
 
-Additional layers coming soon for rowhomes - tenements and adjoined/stacked flats - and apartment hotels, but only those which were/are primarily hotels that offer apartment suites. This project will continue to exclude boarding houses, lodging houses, and rooming houses.
+This project maps, catalogues, and attempts to typologize historic prewar and interwar apartment buildings, built before 1939 and at least as early as 1883, within Milwaukee's city limits: Eastside and east downtown, West Town, Northwest, Old North Milwaukee, Walker's Point/5th Ward, West Milwaukee, and Bay View. It includes the villages of Shorewood and Whitefish Bay and the cities of St. Francis, Cudahy, and South Milwaukee. This project excludes (for now) the inner ring suburbs of Wauwatosa, West Allis, Greenfield, and Greendale, but will hopefully change soon. Please contact me at [mkehist@gmail.com](mailto:mkehist@gmail.com) if you're interested in working together on this data collection!
 
-Comments, questions & feedback encouraged & appreciated!! Please contact me if you've found an unmapped building or can provide any information!
+Additional layers coming soon for rowhomes - tenements and adjoined/stacked flats - and apartment hotels, but only those which were/are primarily hotels that offer apartment suites. This project will continue to exclude boarding houses, lodging houses, and rooming houses. A glossary, which will help tell apart these and other terms, is also coming soon.
 
-This project began in [July 2018 in ArcGIS Online](https://arcg.is/1ezGee). 
+Comments, questions & feedback encouraged & appreciated! Please contact me if you've found an unmapped building or can provide any information about a building you've lived in!
+
+This project began in [early 2018 in Google Maps](https://www.google.com/maps/d/u/0/viewer?hl=en&mid=1AHzh-RpuiVre_waNfxXWrz0qTI7_qxh1&ll=43.05024187106603%2C-87.9359193403547&z=10) before migrating in [July 2018 to ArcGIS Online](https://arcg.is/1ezGee). 
+
+© BT 2018-07-18 v.2 (https://arcg.is/1ezGee); 2020-10-18 v.3 (https://mappingmilwaukee.github.io/MKE-apartments/)
